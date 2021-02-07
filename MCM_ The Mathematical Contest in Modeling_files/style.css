@@ -1,0 +1,114 @@
+body,p,td,br,ul,li,blockquote {
+
+        font-size: 10pt;
+
+        font-family: tahoma,verdana,arial,helvetica,sans-serif;
+
+        color: black;
+
+}
+
+
+
+
+
+pre {
+
+        font-size: 10pt;
+
+        font-family: fixed;
+
+}
+
+
+
+
+
+.head {
+
+        font-size: 16pt;
+
+        font-family: tahoma,verdana,arial,helvetica,sans-serif;
+
+        color: black;
+
+}
+
+
+
+h1, h2, h3 {
+
+        font-size: 14pt;
+
+        font-family: tahoma,verdana,arial,helvetica,sans-serif;
+
+        color: black;
+
+}
+
+
+
+.small {
+
+        font-size: 10pt !important;
+
+        font-family: tahoma,verdana,arial,helvetica,sans-serif
+
+!important;
+
+        color: black;
+
+}
+
+
+
+a:link {
+
+        font-weight: bold;
+
+        color: "#0066CC";
+
+        text-decoration: none;
+
+}
+
+
+
+a:visited {
+
+        font-weight: bold;
+
+        color: "#999999";
+
+        text-decoration: none;
+
+}
+
+
+
+a:hover {
+
+        font-weight: bold;
+
+        color: "#FF0000";
+
+        text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

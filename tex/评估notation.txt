@@ -1,0 +1,29 @@
+\begin{tabular}{l|l}
+        \hline
+        % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+        Symbols & Description                        \\
+        \hline
+        $GP$    & Total grain production Index       \\
+
+        $AT$    & Regional Average Temperature Index \\
+
+        $WPA$   & Per capita water resource Index    \\
+
+        $RH$    & Rain height Index                  \\
+
+        $GY$    & Grain Yield Index                  \\
+
+        $GS$    & Grain stock Index                  \\
+
+        $GE$    & Grain Export Index                 \\
+
+        $GI$    & Grain Import Index                 \\
+
+        $GU$    & Food utilization Index             \\
+
+        $FC$    & Forest Cover Index                 \\
+
+        $CE$    & CO2 emission per capita Index      \\
+
+        \hline
+    \end{tabular}
